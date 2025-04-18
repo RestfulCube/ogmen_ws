@@ -29,7 +29,7 @@ ros2 launch bot_description rviz.launch.py
 
 ### Gazebo Simulation:
 ```bash
-ros2 launch bot_description gz_sim.launch.py
+ros2 launch bot_description spawn.launch.py
 ```
 Note : The robot will spawn in an empty world currently and I am in the process of setting up the environment.
 ![Screenshot from 2025-04-18 13-47-41](https://github.com/user-attachments/assets/33fb6059-4a54-4270-857c-ffc27e96a31e)
