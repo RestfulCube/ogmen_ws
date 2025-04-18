@@ -1,0 +1,45 @@
+[0.015s] Invoking command in '/home/srivatsan/ogmen_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/srivatsan/ogmen_ws/build/bot_description -- -j22 -l22
+[0.043s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.190s] -- Found xacro: 2.0.13 (/opt/ros/jazzy/share/xacro/cmake)
+[0.190s] -- Found ros_gz_sim: 1.0.11 (/opt/ros/jazzy/share/ros_gz_sim/cmake)
+[0.206s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.211s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.217s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.224s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.257s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.258s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.312s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.346s] -- Found robot_state_publisher: 3.3.3 (/opt/ros/jazzy/share/robot_state_publisher/cmake)
+[0.446s] -- Found controller_manager: 4.27.0 (/opt/ros/jazzy/share/controller_manager/cmake)
+[0.565s] -- Found joint_state_broadcaster: 4.22.0 (/opt/ros/jazzy/share/joint_state_broadcaster/cmake)
+[0.574s] -- Found diff_drive_controller: 4.22.0 (/opt/ros/jazzy/share/diff_drive_controller/cmake)
+[0.667s] -- Configuring done (0.6s)
+[0.670s] -- Generating done (0.0s)
+[0.672s] -- Build files have been written to: /home/srivatsan/ogmen_ws/build/bot_description
+[0.700s] Invoked command in '/home/srivatsan/ogmen_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/srivatsan/ogmen_ws/build/bot_description -- -j22 -l22
+[0.710s] Invoking command in '/home/srivatsan/ogmen_ws/build/bot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/srivatsan/ogmen_ws/build/bot_description
+[0.716s] -- Install configuration: ""
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/launch
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/launch/control.launch.py
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/launch/rviz.launch.py
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/launch/spawn.launch.py
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/urdf
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/urdf/robot.urdf.xacro
+[0.716s] -- Installing: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/worlds
+[0.716s] -- Installing: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/worlds/test.world
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/ament_index/resource_index/package_run_dependencies/bot_description
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/ament_index/resource_index/parent_prefix_path/bot_description
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/environment/ament_prefix_path.sh
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/environment/ament_prefix_path.dsv
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/environment/path.sh
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/environment/path.dsv
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/local_setup.bash
+[0.716s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/local_setup.sh
+[0.717s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/local_setup.zsh
+[0.717s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/local_setup.dsv
+[0.717s] -- Installing: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/package.dsv
+[0.717s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/ament_index/resource_index/packages/bot_description
+[0.717s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/cmake/bot_descriptionConfig.cmake
+[0.717s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/cmake/bot_descriptionConfig-version.cmake
+[0.717s] -- Up-to-date: /home/srivatsan/ogmen_ws/install/bot_description/share/bot_description/package.xml
+[0.718s] Invoked command in '/home/srivatsan/ogmen_ws/build/bot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/srivatsan/ogmen_ws/build/bot_description
